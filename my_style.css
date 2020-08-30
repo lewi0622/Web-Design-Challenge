@@ -1,0 +1,31 @@
+:root {
+  --primary: #306E8A;
+  --success: #F8F3CE;
+  --info:    #9EF1E9;
+  --warning: #F1ECD9;
+  --danger:  #C8E2E1;
+}
+
+body {
+  background-color: var(--danger);
+}
+
+h1 {
+  color: var(--primary);
+}
+
+nav {
+  background-color: var(--danger);
+}
+
+a {
+  color: var(--primary);
+}
+
+.jumbotron-fluid {
+  background-color: var(--success);
+}
+
+.card-deck {
+  background-color: var(--danger);
+}
