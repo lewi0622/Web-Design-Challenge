@@ -29,6 +29,8 @@ a {
 
 .card-deck {
   background-color: var(--danger);
+  padding-right: 25px;
+  padding-left: 25px;
 }
 
 table {
