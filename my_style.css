@@ -24,8 +24,21 @@ a {
 
 .jumbotron-fluid {
   background-color: var(--success);
+  background-size: cover;
 }
 
 .card-deck {
   background-color: var(--danger);
+}
+
+table {
+  background-color: var(--success);
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: center;
 }
